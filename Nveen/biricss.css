@@ -1,0 +1,53 @@
+h1
+{
+text-align:center;
+padding:5px 0px ;
+}
+
+.search{
+text-align:center;
+width:76%;
+font-size:20px;
+padding:10px;
+
+}
+
+.product
+{
+padding:20px;
+}
+
+.image
+{
+padding:10px 30px;
+float:left;
+
+
+
+}
+.container {
+  display: block;
+ font-size:30px;
+  position: none;
+  padding:  20px 20px;
+  margin-bottom: 0px;
+  cursor: pointer;
+}
+
+.block {
+  display: block;
+  border: 1px  solid black;
+  background-color: orange;
+  padding: 14px 28px;
+  font-size: 30px;
+  font:color:white;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn4
+{
+padding:0px 600px;
+
+}
+
